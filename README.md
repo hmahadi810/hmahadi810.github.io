@@ -1,15 +1,36 @@
-# Mahadi Hassan Shova — Portfolio
+# Mahadi Hassan Shova — IT Portfolio
 
-Static portfolio prepared for GitHub Pages.
+**IT Support & Networking · Vienna, Austria**
 
-Repository: hmahadi810/hmahadi810.github.io
-Expected Pages URL after deployment: https://hmahadi810.github.io/
+## Live website
 
-Upload the contents of this archive directly to the repository root (not as a ZIP file).
-In repository Settings > Pages, choose Deploy from a branch, main, / (root), and Save.
-The GitHub Free repository must be public for GitHub Pages.
+### [hmahadi810.github.io](https://hmahadi810.github.io/)
 
-Files: index.html, network-case-studies.html, assets/, .nojekyll.
-No installation, build step or backend is required.
+A responsive portfolio presenting my IT support and networking experience, education, course certificates and selected technical work.
 
-The portfolio includes CVs, certificates and a portrait. Network case studies are marked as solution designs with device validation pending.
+## Explore
+
+- Professional experience at Tech Domain and Suchona Broadband.
+- German/English profile content and downloadable CVs.
+- Network solution case studies: segmented office, OSPF troubleshooting and resilient switching.
+- RIPE Atlas routing-loop analysis and academic computer-vision work.
+- Cisco Networking Academy, New Horizons A+ course completion and BTEB training certificates.
+
+[Networking documentation repository](https://github.com/hmahadi810/networking-labs) · [LinkedIn](https://www.linkedin.com/in/hmahadi810/)
+
+## Project structure
+
+| File | Purpose |
+| --- | --- |
+| `index.html` | Main portfolio, language switch and project overview |
+| `network-case-studies.html` | Detailed network solution designs and configuration references |
+| `assets/` | Portrait, CVs, course certificates and guided lab documentation |
+| `.nojekyll` | Serves the static files directly with GitHub Pages |
+
+## Hosting
+
+Built with HTML, CSS and JavaScript. No package installation or build step is required. GitHub Pages publishes from the `main` branch and repository root.
+
+## Evidence & content
+
+Course completion certificates are described as course completions. CCNA certification is in preparation. Network solution designs include expected acceptance tests; device validation remains pending. Guided lab screenshots may include initial fault states.
